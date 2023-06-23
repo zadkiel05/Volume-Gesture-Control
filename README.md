@@ -4,3 +4,10 @@ If you are working while listening to your favorite music, with just a gesture o
 
 ![20230623_145134](https://github.com/zadkiel05/Volume-Gesture-Control/assets/136728698/17b72f3e-69fc-4dcd-a1a8-f9738c1f481b)
 
+Important Libraries:
+pip install numpy
+pip install opencv-python
+pip install mediapipe
+pip install pycaw
+pip install python-math
+pip install gpib-ctypes, comtypes
